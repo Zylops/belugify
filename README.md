@@ -1,6 +1,7 @@
 # 😼 Belugify
 
 A tool to help you make videos similar to those of [Beluga](https://www.youtube.com/channel/UCmSp4bDxS9R0jpeZEvkut2g)!
+Check it out at [belugify.netlify.app](belugify.netlify.app)
 
 > This is still in BETA, so might break unexpectedly. Use github issues to report them =)
 
