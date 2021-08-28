@@ -3,6 +3,8 @@
 A tool to help you make videos similar to those of [Beluga](https://www.youtube.com/channel/UCmSp4bDxS9R0jpeZEvkut2g)!
 Check it out at [belugify.netlify.app](belugify.netlify.app)
 
+Took 3 days to build this with the svelte framework and tailwindcss.
+
 > This is still in BETA, so might break unexpectedly. Use github issues to report them =)
 
 ## Work in progress:
